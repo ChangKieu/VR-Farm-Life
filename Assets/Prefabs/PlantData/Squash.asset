@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b4fedbf31342444193a8892f8d01e30, type: 3}
+  m_Name: Squash
+  m_EditorClassIdentifier: 
+  plantName: Squash
+  growthTime: 21
+  growthStages:
+  - {fileID: 3267844694445700686, guid: b8f2663b8192dfe40b4972fa4226c9f9, type: 3}
+  - {fileID: 3082510051934286527, guid: c045da2c6ff16f74c9932bd964389294, type: 3}
+  - {fileID: 8371255286863446943, guid: e7804da6837214d478b09c152bc4699d, type: 3}
+  waterTimes:
+  - 0
+  pestTime: 10
+  harvestValue: 25
